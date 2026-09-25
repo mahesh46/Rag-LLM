@@ -1,0 +1,173 @@
+Mahesh Lad
++447493126371• Harrow, UK• mlad.mahesh.lad@gmail.com
+https://www.linkedin.com/in/mahesh-lad-00331910/
+https://github.com/mahesh46
+https://mahesh46.github.io/Resume
+
+Summary
+Senior iOS Engineer with over a decade of experience delivering robust, scalable, and customer-
+focused mobile applications. Proficient in Swift, SwiftUI, UIKit, and MVVM-C architecture with
+hands-on knowledge of REST APIs, Core Data, XCTest, and multithreading. Proven track record in
+leading teams, implementing CI/CD pipelines, and building financial and health-tech applications.
+Passionate about clean code, collaborative development, and continuous innovation.
+Proficient in project management, client interaction, and continuous improvement practices.
+Committed to delivering exceptional results that exceed client expectations and drive business
+success.
+
+Work Experience
+Independent iOS Development & Upskilling (June 2025 - Present)
+Working on my own personal projects and Generative AI training.
+Exploring emerging technologies in food-tech and delivery applications
+Available for full-time opportunities in innovative mobile development
+
+Senior Application Developer at AtYourTime.com - Start Up (2Jan2025 - 13 th
+May2025)
+Architected, developed, tested, and maintained software applications in collaboration with cross-
+functional teams to ensure the quality and performance of our software solutions.
+Facilitated global operations.
+Created iOS and Android restaurant, delivery, and user applications using React Native.
+
+Freelance IOS and Android Developer (2015 - 2017)
+Independent iOS Development, including a taxi ride app, an e-commerce app, and a
+restaurant menu app using SwiftUI and Jetpack Compose.
+Participated in online hackathons and coding competitions, earning recognition for
+innovative solutions and exceptional coding practices.
+Attended industry conferences and webinars to stay updated with the latest trends and
+best practices in mobile app development.
+Udemy, Kotlin Multiplatform Masterclass, KMP, KMM - Android, IOS
+
+
+Senior IOS Developer at Deloitte (09/2019 - 04/2023)
+Led the development of iOS applications, delivering high-quality solutions. Use
+SOLID coding principles, Design Patterns (Gang of 4), and Test driven development.
+Utilized Swift, Core Data, and SDK to create efficient and user-friendly apps.
+Collaborated closely with cross-functional teams to ensure seamless client-server
+applications.
+Conducted automated code and interface testing, resulting in improved app
+performance. Conducting code reviews.
+Troubleshot real-time issues and implemented effective solutions.
+Successfully integrated RESTful APIs, adhering to industry best practices.
+Employed AutoLayout, Storyboard, Multithreading, Blocks, GCD, and
+NSOperationQueue for efficient app development.
+Managed Swift package manager for dependency management.
+
+lients projects;
+Wallstreet On-Line, Smart Broker app (code name Zebra). online banking and trading
+applications, for stocks and cryptocurrency. Localization - German and English
+Added features to existing internal Banking project using SwiftUI
+Protecht-Gumshield iOS Bluetooth app for Sports and Wellbeing Analytics Ltd
+(https://swa.one/), allows you to transmit impact data via Bluetooth. Applications – football,
+rugby, boxing, .etc
+As a single iOS developer started the Swift project and created a Working Viable Product. I
+implemented the CI/CD system and app certificates.
+Virgin Media IOS converged app
+As a member of a team of 3 iOS developers, started the Swift project and after 6 months ,
+the team grew to 8+ developers for iOS and Android teams.
+App for both Mobile and or Media (Broadband) customers to see bills, change billing settings
+and load of other features without redirecting to an online portal. Numerous product releases
+over 2.5 years. 99.9% bug free.
+
+Senior IOS Developer at Emotive (https://emotiveagency.com) (05/2016 - 03/2018)
+Developed tablet and mobile iOS applications for medical case studies, training, and conference
+applications.
+Employed Swift, Core Data, and SDK for efficient app development.
+Implemented clean architecture principles to enhance code maintainability.
+Produced and maintained iOS applications using Swift and Combine.
+Generated technical design documentation for project reference.
+Addressed real-time issues and implemented effective solutions.
+Ensured adherence to coding standards and best practices.
+Adopted agile software development practices to deliver customer-focused solutions.
+
+IOS Developer at Golden Trident Ltd (01/2015 - 04/2016)
+New Start-up technology company, with a plan to build the next-generation
+social networking platform.
+Contributed to the development of native iOS mobile applications.
+Implemented MVVM architecture for improved code maintainability.
+Ensured compliance with human interface guidelines and mobile design best
+practices.
+Leveraged Swift and UIKit to create user-friendly app interfaces.
+Collaborated with backend teams to ensure seamless app functionality.
+Worked on white labelling and internationalization projects.
+Clients projects;
+Letsgetout ,https://apps.apple.com/sg/app/lets-get-out/id1018188766
+
+IOS Developer + CTO, ShrPlane, old street, London - Google TechHub, (12/2014 – 02/2015)
+Executed full-stack iOS development. The application was selected for Seedcamp on January 10
+2015.
+Developed MVP prototypes, databases, IIS authentication, and Web APIs using PHP, MySQL,
+JavaScript, and Swift.
+
+
+Mobile App Developer, DPR Consulting (www.dpr.co.uk) (04/2014 – 10/2014)
+Served as a mobile technical consultant and developer for iPhone and Android financial mobile
+banking applications.
+Created white-label applications.
+Developed the premium bank mobile banking app that interfaces with their MVC backend, allowin
+bank customers to check their balance and conduct payments and transfers.
+Integrated a branch-finder feature and push notification functionality.
+Valued unit testing and continuous integration testing, leading to the generation of one million from
+white-label banking application.
+
+Senior Analyst Programmer, Simply Health (05/2012 – 01/2014)
+Functioned as a senior analyst programmer focused on their healthcare system.
+Specified, developed, tested, implemented, and maintained programs and systems in a Windows
+Cloud / Mobile and SQL Server development environment utilizing Windows Azure, AWS, Visual
+Studio 2012, MS SQL Server 2012, .NET Framework 4.5, Xcode Objective-C (iOS), Dreamweave
+CS6, PhoneGap, jQuery Mobile, and HTML5.
+
+
+Education
+Bsc of Mathematics (1990)
+
+
+SKILLS
+Swift SwiftUI
+Objective-C Kotlin
+JavaScript UIKit
+Jetpack Compose Combine
+MVVM-C TDD
+SOLID principles Clean Code
+Dependency Injection (Swinject, Resolver) Xcode
+Git GitHub Actions
+GitLab CI JIRA
+CI/CD XCTest
+Automated Testing Profiling
+GCD NSOperationQueue
+Async/Await RESTful APIs
+Cloud Messaging Offline Caching
+Core Data Realm (basic)
+MySQL PostgreSQL
+AWS (RDS, EB) Supabase
+Render Agile/Scrum
+Cross-functional collaboration Mentoring
+Technical leadership
+
+
+Certifications
+Kotlin Multiplatform Masterclass
+Udemy, 2024)
+Microsoft Azure Data
+Fundamentals 04/2023
+Ultimate Agile Scrum Master
+2022 + Certification Training
+ARKit Masterclass – Build 11
+Augmented Reality Apps (Udemy)
+
+Training
+Introduction to Generative AI
+Learning Path:
+Google cloud skills link:
+Introduction to Generative AI
+Introduction to Large Language
+Models
+Introduction to Responsible AI
+Generative AI Fundamentals
+Responsible AI: Applying AI
+Principles with Google Cloud
+Microsoft Azure AI Fundamentals:
+AI Overview
+Microsoft skills Link:
+Fundamentals of Azure AI services
+Fundamentals of machine learning
+Fundamental AI Concepts
+
